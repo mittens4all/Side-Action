@@ -25,5 +25,5 @@ titleraw @a actionbar {"rawtext":[{"text":"Money: "}, {"score":{"name":"*", "obj
 
 # Gratitudes
 
-- [Zhea Evyline] (https://discord.gg/SYstTYx5G5) \\ Bedrock Commands Community Discord
-- [coddy2009] (https://discord.gg/46JUdQb) \\ Bedrock Add-ons Discord
+- [Zhea Evyline](https://discord.gg/SYstTYx5G5) \\ Bedrock Commands Community Discord
+- [coddy2009](https://discord.gg/46JUdQb) \\ Bedrock Add-ons Discord
