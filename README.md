@@ -1,8 +1,8 @@
 
 # Side Action
 
-This resource pack sets the actionbar postion to the sidebar,
-the sidebar to the left, and title on the bottom.
+This resource pack sets the actionbar postion to the top
+right, the sidebar to the left, and title on the bottom.
 
 ## Installing the pack:
 
@@ -26,7 +26,7 @@ titleraw @a title {"rawtext":[{"text":"Money: "}, {"score":{"name":"*", "objecti
 ## Author
 
 - [@mittens4all](https://www.github.com/mittens4all)
-- [Youtube](http://www.youtube.com/@mittens4all)
+- [Youtube](https://www.youtube.com/@mittens4all)
 
 # Gratitudes
 
