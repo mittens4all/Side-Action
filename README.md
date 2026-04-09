@@ -10,7 +10,7 @@ Add the Side Action mcpack to your resource packs on your world.
 
 ### How to use titleraw on the actionbar to display scores
 
-![Side Action v1.3.0](./assets/images/side-action-v1.3.0.png)
+![Side Action v1.3.0](./assets/images/side-action-v1.3.0.PNG)
 
 This example uses the scoreboard objective `Money`. 
 After creating an objective, type the following into a command 
