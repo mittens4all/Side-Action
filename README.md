@@ -17,7 +17,7 @@ After creating an objective, type the following into a command
 block and set it to Repeating, Unconditional, Always Active.
 Make sure to place the command block in a ticking area.
 
-```yaml
+```js
 titleraw @a actionbar {"rawtext":[{"text":"Money: "}, {"score":{"name":"*", "objective":"money"}}]}
 ```
 
